@@ -1,3 +1,3 @@
 # HOMI-modpack
-Hearts of Minecraft Modpack repo
-testing stuff
+Hearts of Minecraft Modpack repo  
+Currently adding mods and folders
